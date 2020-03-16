@@ -22,6 +22,8 @@
     "semver": "^5.1.0"
   },
   "dependencies": {
-    "mocha-multi": "^1.1.3"
+    "g": "^2.0.1",
+    "mocha-multi": "^1.1.3",
+    "n": "^6.4.0"
   }
 }
